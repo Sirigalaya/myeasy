@@ -36,25 +36,23 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 384,
-            "modifiedTime": 1538551985789,
-            "changeTime": 1538551985789,
-            "contentHash": "baf36054dcf75bbaf0b253b6ede0b43529a3cc52"
+            "size": 544,
+            "modifiedTime": 1538626518562,
+            "changeTime": 1538626518562,
+            "contentHash": "e331a5c5464fac527b2d951c69534ce19119abc2"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1538538673177,
-            "changeTime": 1538538673177,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 800,
+            "modifiedTime": 1538626518453,
+            "changeTime": 1538626518453,
+            "contentHash": "0b998a2f85b385726260f78e859f346fb6b165bb"
         }
     ],
     [
@@ -530,14 +528,14 @@
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3051,
             "modifiedTime": 1538551985683,
             "changeTime": 1538551985683,
-            "contentHash": "4a403e4bd0cae2efb6fb5055bb58e5c99d2d8d84"
+            "contentHash": "4a403e4bd0cae2efb6fb5055bb58e5c99d2d8d84",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -638,10 +636,10 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 24940,
-            "modifiedTime": 1538551985731,
-            "changeTime": 1538551985731,
-            "contentHash": "e4bb03584d006c003dc8f35d75e79b21a4439c50"
+            "size": 25672,
+            "modifiedTime": 1538626518521,
+            "changeTime": 1538626518521,
+            "contentHash": "f4fff61a2f6a4803213f8056bb74e78bca356fda"
         }
     ],
     [
@@ -651,10 +649,10 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10541,
-            "modifiedTime": 1538551985751,
-            "changeTime": 1538551985751,
-            "contentHash": "b1aacdf42a0752ff718f02ecf5c0099f59f914d4"
+            "size": 11275,
+            "modifiedTime": 1538626518530,
+            "changeTime": 1538626518530,
+            "contentHash": "7e52404a47f46f73cd1d5761b4a223f9088ca3b4"
         }
     ],
     [
@@ -664,10 +662,10 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10537,
-            "modifiedTime": 1538551985762,
-            "changeTime": 1538551985762,
-            "contentHash": "b213d082b928754fa5c341c2e768a86333558570"
+            "size": 11271,
+            "modifiedTime": 1538626518543,
+            "changeTime": 1538626518543,
+            "contentHash": "f33aea82e3275789b195929968d259d72fbcb920"
         }
     ],
     [
@@ -677,10 +675,10 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10877,
-            "modifiedTime": 1538551985778,
-            "changeTime": 1538551985778,
-            "contentHash": "36c41abee2f726523cd7c0d9722b72142a80e1ee"
+            "size": 11611,
+            "modifiedTime": 1538626518561,
+            "changeTime": 1538626518561,
+            "contentHash": "935f7fc4ed081b2929e6ea8198165cdd6a57421c"
         }
     ],
     [
@@ -712,27 +710,27 @@
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1538551985669,
             "changeTime": 1538551985669,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Market__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Market__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1538551985664,
             "changeTime": 1538551985664,
-            "contentHash": "e8939c0c014a7f2e0066dc4ac1a20a049e8e3927"
+            "contentHash": "e8939c0c014a7f2e0066dc4ac1a20a049e8e3927",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -816,27 +814,27 @@
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1538551985677,
             "changeTime": 1538551985677,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1538543119379,
-            "changeTime": 1538543119379,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 224,
+            "modifiedTime": 1538626518461,
+            "changeTime": 1538626518461,
+            "contentHash": "219b56b2d2cb9da1ef11c7b970f80f5d65c05bb9"
         }
     ],
     [
@@ -868,235 +866,235 @@
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8603,
             "modifiedTime": 1538551985787,
             "changeTime": 1538551985787,
-            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1538551985664,
             "changeTime": 1538551985664,
-            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 189,
             "modifiedTime": 1538551985670,
             "changeTime": 1538551985670,
-            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
+            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1538551985670,
             "changeTime": 1538551985670,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1538551985670,
             "changeTime": 1538551985670,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1538551985671,
             "changeTime": 1538551985671,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1538551985671,
             "changeTime": 1538551985671,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1538551985671,
             "changeTime": 1538551985671,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1538551985672,
             "changeTime": 1538551985672,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1538551985677,
             "changeTime": 1538551985677,
-            "contentHash": "524d9f9af1ce8c40586f7d5604b86eaa87d53d24"
+            "contentHash": "524d9f9af1ce8c40586f7d5604b86eaa87d53d24",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538551985684,
             "changeTime": 1538551985684,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1622,
             "modifiedTime": 1538551985686,
             "changeTime": 1538551985686,
-            "contentHash": "c5aa9d501c5214c366a6a86749a59b76ed1fb7f3"
+            "contentHash": "c5aa9d501c5214c366a6a86749a59b76ed1fb7f3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538551985688,
             "changeTime": 1538551985688,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1761,
             "modifiedTime": 1538551985689,
             "changeTime": 1538551985689,
-            "contentHash": "4e1ba9a1d6a7ae0cc789965808c3ad261caa54cf"
+            "contentHash": "4e1ba9a1d6a7ae0cc789965808c3ad261caa54cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Field.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Field.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 982,
             "modifiedTime": 1538551985790,
             "changeTime": 1538551985790,
-            "contentHash": "65d60e7bb5f8695fad906f6b94217d89bf3843c8"
+            "contentHash": "65d60e7bb5f8695fad906f6b94217d89bf3843c8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Field.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Field.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1002,
             "modifiedTime": 1538551985792,
             "changeTime": 1538551985792,
-            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698"
+            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538551985670,
             "changeTime": 1538551985670,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1538551985671,
             "changeTime": 1538551985671,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1106,23 +1104,1609 @@
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1538551985689,
-            "changeTime": 1538551985689,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "size": 256,
+            "modifiedTime": 1538626518474,
+            "changeTime": 1538626518474,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507"
         }
     ],
     [
         "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata",
         {
-            "state": "u",
             "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538551985792,
             "changeTime": 1538551985792,
-            "contentHash": "b2eca3151cc40e355bc0a197a16e67f997a13576"
+            "contentHash": "b2eca3151cc40e355bc0a197a16e67f997a13576",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518406,
+            "changeTime": 1538626518406,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1263,
+            "modifiedTime": 1538626518407,
+            "changeTime": 1538626518407,
+            "contentHash": "409861056a093e652dc359f0a5e4b7eb750253cb"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1538626518407,
+            "changeTime": 1538626518407,
+            "contentHash": "b439b7d13cd88c662ce25d2dad3a926d9fdbeb1a"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1538626518407,
+            "changeTime": 1538626518407,
+            "contentHash": "c2517c2523642d377a077f1ade07648567369292"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1580,
+            "modifiedTime": 1538626518408,
+            "changeTime": 1538626518408,
+            "contentHash": "3bd1b92012f5047e4ece168406c49e7c03cccdb2"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518409,
+            "changeTime": 1538626518409,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1538626518410,
+            "changeTime": 1538626518410,
+            "contentHash": "ea13cdb58cf2e8e30fb40c4dd768b2bf8a84f5df"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pillController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pillController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 355,
+            "modifiedTime": 1538626518410,
+            "changeTime": 1538626518410,
+            "contentHash": "afcef34e80d43c4530ec7f3d9c31560e12786f1f"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1538626518410,
+            "changeTime": 1538626518410,
+            "contentHash": "1ac21d303791e4108b26d531eea4c607fb66f215"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 561,
+            "modifiedTime": 1538626518411,
+            "changeTime": 1538626518411,
+            "contentHash": "f1846246ac61793e442ff1d949bc0deb924dac46"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518411,
+            "changeTime": 1538626518411,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538626518412,
+            "changeTime": 1538626518412,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1538626518412,
+            "changeTime": 1538626518412,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 258,
+            "modifiedTime": 1538626518412,
+            "changeTime": 1538626518412,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518413,
+            "changeTime": 1538626518413,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538626518414,
+            "changeTime": 1538626518414,
+            "contentHash": "530fc21a2bf34902943101f610777e13c9368c3c"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518415,
+            "changeTime": 1538626518415,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3600,
+            "modifiedTime": 1538626518415,
+            "changeTime": 1538626518415,
+            "contentHash": "9fee76c911198f6fd88341169e49ed32f6a65274"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1538626518415,
+            "changeTime": 1538626518415,
+            "contentHash": "7080ad772626e9e7e00e51623554605f2d62a95f"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1167,
+            "modifiedTime": 1538626518416,
+            "changeTime": 1538626518416,
+            "contentHash": "6c54aebbb096fe7a83f6171c61d21ec0f6e4326f"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1362,
+            "modifiedTime": 1538626518416,
+            "changeTime": 1538626518416,
+            "contentHash": "447866e499ee002b8fc526e999fc649712f2b838"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518417,
+            "changeTime": 1538626518417,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1310,
+            "modifiedTime": 1538626518417,
+            "changeTime": 1538626518417,
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1008,
+            "modifiedTime": 1538626518418,
+            "changeTime": 1538626518418,
+            "contentHash": "adfbe9717dd982e2d24aa9cb04f6b63bb1f0cd36"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1538626518418,
+            "changeTime": 1538626518418,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518419,
+            "changeTime": 1538626518419,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1538626518419,
+            "changeTime": 1538626518419,
+            "contentHash": "314091fa49c8c4f8c1a231416f0aa266c829a573"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil/customerTil.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil/customerTil.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518420,
+            "changeTime": 1538626518420,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil/customerTil.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil/customerTil.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538626518420,
+            "changeTime": 1538626518420,
+            "contentHash": "d008175b9de5fc0421d6d51d9a0ccdd5e0ce3046"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518421,
+            "changeTime": 1538626518421,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1538626518421,
+            "changeTime": 1538626518421,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1126,
+            "modifiedTime": 1538626518422,
+            "changeTime": 1538626518422,
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518422,
+            "changeTime": 1538626518422,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 729,
+            "modifiedTime": 1538626518423,
+            "changeTime": 1538626518423,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 186,
+            "modifiedTime": 1538626518423,
+            "changeTime": 1538626518423,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 368,
+            "modifiedTime": 1538626518423,
+            "changeTime": 1538626518423,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 631,
+            "modifiedTime": 1538626518424,
+            "changeTime": 1538626518424,
+            "contentHash": "d256b65f8d23c7fc4dd8c9dab414c4add057a32c"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518424,
+            "changeTime": 1538626518424,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 938,
+            "modifiedTime": 1538626518425,
+            "changeTime": 1538626518425,
+            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3735,
+            "modifiedTime": 1538626518425,
+            "changeTime": 1538626518425,
+            "contentHash": "5a519872b05e98183d9513ceadf73cdfa3891386"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538626518426,
+            "changeTime": 1538626518426,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 860,
+            "modifiedTime": 1538626518426,
+            "changeTime": 1538626518426,
+            "contentHash": "39ea8763b9996688d22351411f5aa62f4a6bea68"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518427,
+            "changeTime": 1538626518427,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1588,
+            "modifiedTime": 1538626518435,
+            "changeTime": 1538626518435,
+            "contentHash": "1cd016764871cd05992e6ce09594294024dd57a5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1538626518435,
+            "changeTime": 1538626518435,
+            "contentHash": "da4ba034b791b95d7917cc9488a690f2b7d81c18"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538626518436,
+            "changeTime": 1538626518436,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 657,
+            "modifiedTime": 1538626518436,
+            "changeTime": 1538626518436,
+            "contentHash": "baa3e0015c26ea05020cd9e58333e92e5993e9cc"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1311,
+            "modifiedTime": 1538626518436,
+            "changeTime": 1538626518436,
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518437,
+            "changeTime": 1538626518437,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 709,
+            "modifiedTime": 1538626518438,
+            "changeTime": 1538626518438,
+            "contentHash": "16dc390c4b4b1d9eb3f7c4b0672029d016621668"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1538626518438,
+            "changeTime": 1538626518438,
+            "contentHash": "5404354314c8c9c6b3fb18d499c2e58402098c95"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 647,
+            "modifiedTime": 1538626518438,
+            "changeTime": 1538626518438,
+            "contentHash": "c1d6d8c6714824ae19edcbda36951768abef6b91"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile/muteTile.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile/muteTile.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518439,
+            "changeTime": 1538626518439,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile/muteTile.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile/muteTile.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1538626518439,
+            "changeTime": 1538626518439,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518440,
+            "changeTime": 1538626518440,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4282,
+            "modifiedTime": 1538626518441,
+            "changeTime": 1538626518441,
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1538626518441,
+            "changeTime": 1538626518441,
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1818,
+            "modifiedTime": 1538626518441,
+            "changeTime": 1538626518441,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 471,
+            "modifiedTime": 1538626518442,
+            "changeTime": 1538626518442,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518443,
+            "changeTime": 1538626518443,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1190,
+            "modifiedTime": 1538626518443,
+            "changeTime": 1538626518443,
+            "contentHash": "c9a7c2c2fbe71c0d6b7762352a8134d0504363db"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 804,
+            "modifiedTime": 1538626518444,
+            "changeTime": 1538626518444,
+            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 966,
+            "modifiedTime": 1538626518444,
+            "changeTime": 1538626518444,
+            "contentHash": "fd2a3860304a407719a0f25662f3a5e5c25bd6a0"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1307,
+            "modifiedTime": 1538626518445,
+            "changeTime": 1538626518445,
+            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518445,
+            "changeTime": 1538626518445,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1538626518446,
+            "changeTime": 1538626518446,
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1538626518446,
+            "changeTime": 1538626518446,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518447,
+            "changeTime": 1538626518447,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1538626518447,
+            "changeTime": 1538626518447,
+            "contentHash": "9275f15414db18db9e75a1a89185c9cb73dd3683"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1538626518448,
+            "changeTime": 1538626518448,
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1538626518448,
+            "changeTime": 1538626518448,
+            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518449,
+            "changeTime": 1538626518449,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1538626518449,
+            "changeTime": 1538626518449,
+            "contentHash": "7984a676e0685428bedaa144d4b618409468016a"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518450,
+            "changeTime": 1538626518450,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1538626518450,
+            "changeTime": 1538626518450,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1/pillSelect1.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1/pillSelect1.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518451,
+            "changeTime": 1538626518451,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1/pillSelect1.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1/pillSelect1.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1538626518451,
+            "changeTime": 1538626518451,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518452,
+            "changeTime": 1538626518452,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1538626518453,
+            "changeTime": 1538626518453,
+            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538626518454,
+            "changeTime": 1538626518454,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538626518454,
+            "changeTime": 1538626518454,
+            "contentHash": "d008175b9de5fc0421d6d51d9a0ccdd5e0ce3046"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1538626518456,
+            "changeTime": 1538626518456,
+            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1538626518457,
+            "changeTime": 1538626518457,
+            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1153,
+            "modifiedTime": 1538626518459,
+            "changeTime": 1538626518459,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1538626518460,
+            "changeTime": 1538626518460,
+            "contentHash": "d02a218a50d8344a1758fdf86477e23023b45934"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1538626518461,
+            "changeTime": 1538626518461,
+            "contentHash": "648f1cfcd66429ec99f75e169ec823a1428da792"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1609,
+            "modifiedTime": 1538626518463,
+            "changeTime": 1538626518463,
+            "contentHash": "127525ed554af734daba0e10131d77e33c44edc0"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications/standard__LightningBolt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications/standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 526,
+            "modifiedTime": 1538626518464,
+            "changeTime": 1538626518464,
+            "contentHash": "300e8f40d97f37e04e1de0314380dfa527270061"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10625,
+            "modifiedTime": 1538626518472,
+            "changeTime": 1538626518472,
+            "contentHash": "879d5ef3469f4f44b6c95d1b38eda2c0b3106eb3"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1538626518473,
+            "changeTime": 1538626518473,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538626518474,
+            "changeTime": 1538626518474,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 555,
+            "modifiedTime": 1538626518475,
+            "changeTime": 1538626518475,
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1538626518563,
+            "changeTime": 1538626518563,
+            "contentHash": "4635156374d7680b4243fafef36b0ac4c12fc5dc"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296211,
+            "modifiedTime": 1538626518564,
+            "changeTime": 1538626518564,
+            "contentHash": "374160a02bed209f918e7cb24273583e54f958b5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/galleryTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518408,
+            "changeTime": 1538626518408,
+            "contentHash": "b4bd49ed896c0c6b2335fafd81e63235bea271b6"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pill",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518411,
+            "changeTime": 1538626518411,
+            "contentHash": "87db8f9247448c45b0355b8d6278477df85d9738"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538626518412,
+            "changeTime": 1538626518412,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518414,
+            "changeTime": 1538626518414,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/smartGallery",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518416,
+            "changeTime": 1538626518416,
+            "contentHash": "81d748c5dca289c52a3a36346dbdeb64775d12ee"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationHelper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538626518418,
+            "changeTime": 1538626518418,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518419,
+            "changeTime": 1538626518419,
+            "contentHash": "b64649d5e6e5b7a7ff913e52f657425fe1a2677c"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTil",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518420,
+            "changeTime": 1538626518420,
+            "contentHash": "a3827001809bb5313857db595b56acd97eef5371"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/marketService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538626518421,
+            "changeTime": 1538626518421,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518424,
+            "changeTime": 1538626518424,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518426,
+            "changeTime": 1538626518426,
+            "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1538626518436,
+            "changeTime": 1538626518436,
+            "contentHash": "f1d9caef07bcfd247f85ecedfa7dd55f1227cf26"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538626518438,
+            "changeTime": 1538626518438,
+            "contentHash": "b333b8f65c34595128f9900d2f368c6a0fd180c5"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/muteTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518439,
+            "changeTime": 1538626518439,
+            "contentHash": "9ea9967813234890c45158ca829b13e2976b1f45"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518442,
+            "changeTime": 1538626518442,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/spaceDesigner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538626518445,
+            "changeTime": 1538626518445,
+            "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538626518446,
+            "changeTime": 1538626518446,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/reservationList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538626518448,
+            "changeTime": 1538626518448,
+            "contentHash": "877d3872e603d651e9edb824870516646dc9f04b"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518449,
+            "changeTime": 1538626518449,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillDeselect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518450,
+            "changeTime": 1538626518450,
+            "contentHash": "0910499d77556b086510e7cfa8f0530e033a51a9"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518451,
+            "changeTime": 1538626518451,
+            "contentHash": "20be9177a834aa10b519c5049a2c081aa4e6867b"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/selectObject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518453,
+            "changeTime": 1538626518453,
+            "contentHash": "c136c4d4c9606b1ec48ec2ad46c6a209d5981528"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/aura/pillSelect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518454,
+            "changeTime": 1538626518454,
+            "contentHash": "3f7e2ac50d177ef730e932dc43d1ca294566fe72"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538626518458,
+            "changeTime": 1538626518458,
+            "contentHash": "f3d9119ea48e225db2ca7fa829a77897123dd2c1"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518464,
+            "changeTime": 1538626518464,
+            "contentHash": "70c0161ec76b1a3cbdd925660912d23d68bf9cda"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538626518471,
+            "changeTime": 1538626518471,
+            "contentHash": "03597716608acc3fe4370c78615c0b51502dc08b"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538626518473,
+            "changeTime": 1538626518473,
+            "contentHash": "660d93f5f527458cf9c9c83794efbc5a7169e5e4"
+        }
+    ],
+    [
+        "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidc-mcb1/Documents/dev/myeasy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538626518563,
+            "changeTime": 1538626518563,
+            "contentHash": "dfdc138c824c8140c5c3e58bc68aef48022dae89"
         }
     ]
 ]
