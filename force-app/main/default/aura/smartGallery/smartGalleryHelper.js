@@ -23,7 +23,7 @@
     
     handleStyles: function(component, removes)
     {
-        var action = $A.get("e.c:muteTiles");
+        var action = $A.get("e.c:muteTile");
         
         action.setParams({
             "muteArray" : removes,
